@@ -1,0 +1,1 @@
+put the mp3 files you want to convert in the "oldfiles" folder. When you run the batch file, finished sounds will be in "finished". duh. 

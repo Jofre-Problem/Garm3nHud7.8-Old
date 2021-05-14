@@ -10,3 +10,7 @@ Due to this version being very broken when added the JofreHUD Base stuff... I de
 I wish I could just "link" files and make a tutorial... but even that doesnt work :/
 
 I probably will just make a .vpk file.
+
+SHOWCASE:
+https://www.youtube.com/watch?v=i0IM53WVO9s&t=230s
+

@@ -15,13 +15,7 @@
 "OnlyAtMenu""1"
 "subimage" "glyph_muted"
 }
-"MMIngameBackgroundPanel"
-{
-"label"""
-"command""engine alias none"
-"OnlyInGame""1"
-"subimage" ""
-}
+
 "ServerBrowserButton"
 {
 "label" "," 
